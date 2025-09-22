@@ -13,7 +13,6 @@
 - 📈 **Intern @ ABILITY SOFTWARE** (Full Stack, Jun-Jul 2025)
 - 📊 Skilled in **Python, Java, C, HTML, CSS, JavaScript, React, SQL, Data Structures, Machine Learning, Problem Solving**
 - 📜 **Certifications:** Full Stack Development (Novitech), Introduction to Artificial Intelligence (NOVITECH), DSA Problem Solving using Java (SCALER), Introduction to IoT (NPTEL)
-- 📚 Hobbies include **reading books, exploring stories on Quora**, and **traveling**, which helps me stay creative and focused.
 - 🔎 Passionate about delivering efficient, innovative, and user-focused solutions, applying problem-solving skills to support digital transformation and business growth.
 - 📫 Email: mathivanancodes@gmail.com
 
