@@ -9,7 +9,7 @@
 
 ## 🧠 About Me & Education
 
-- 🎓 **B.Tech Computer Science and Business Systems**, M.Kumarasamy College of Engineering, Karur (2023–2027), CGPA: 7.853 (III-Semester)
+- 🎓 **B.Tech Computer Science and Business Systems**, M.Kumarasamy College of Engineering, Karur (2023–2027), CGPA: 7.853 (V-Semester)
 - 📈 **Intern @ ABILITY SOFTWARE** (Full Stack, Jun-Jul 2025)
 - 📊 Skilled in **Python, Java, C, HTML, CSS, JavaScript, React, SQL, Data Structures, Machine Learning, Problem Solving**
 - 📜 **Certifications:** Full Stack Development (Novitech), Introduction to Artificial Intelligence (NOVITECH), DSA Problem Solving using Java (SCALER), Introduction to IoT (NPTEL)
@@ -31,13 +31,13 @@
 ### 🛠️ Skills & Technologies
 
 #### 💻 Programming Languages
-<img src="https://img.icons8.com/color/48/python.png" height="40" alt="Python"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40" alt="Java"/> <img src="https://img.icons8.com/color/48/c-programming.png" height="40" alt="C"/> <img src="https://img.icons8.com/color/48/html-5.png" height="40" alt="HTML5"/> <img src="https://img.icons8.com/color/48/css3.png" height="40" alt="CSS3"/> <img src="https://img.icons8.com/color/48/javascript--v1.png" height="40" alt="JavaScript"/> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-soft-fill-soft-fill-juicy-fish.png" height="40" alt="SQL"/>
+<img src="https://img.icons8.com/color/48/python.png" height="40" alt="Python"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40" alt="Java"/> <img src="https://img.icons8.com/color/48/c-programming.png" height="40" alt="C"/> <img src="https://img.icons8.com/color/48/html-5.png" height="40" alt="HTML5"/> <img src="https://img.icons8.com/color/48/css3.png" height="40" alt="CSS3"/> <img src="https://img.icons8.com/color/48/javascript--v1.png" height="40" alt="JavaScript"/> <img src="https://img.icons8.com/color/48/sql.png" height="40" alt="SQL"/>
 
 #### 🧠 Libraries & Frameworks
-<img src="https://img.icons8.com/color/48/pandas.png" height="40" alt="Pandas"/> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="Scikit-learn"/> <img src="https://img.icons8.com/color/48/react-native.png" height="40" alt="React"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-flask-a-lightweight-microframework-for-python-web-applications-logo-shadow-tal-revivo.png" height="40" alt="Flask"/> <img src="https://img.icons8.com/plasticine/100/machine-learning.png" height="40" alt="Machine Learning"/>
+<img src="https://img.icons8.com/color/48/pandas.png" height="40" alt="Pandas"/> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="Scikit-learn"/> <img src="https://img.icons8.com/color/48/react-native.png" height="40" alt="React"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-flask-a-lightweight-microframework-for-python-web-applications-logo-shadow-tal-revivo.png" height="40" alt="Flask"/> <img src="https://img.icons8.com/color/48/machine-learning.png" height="40" alt="Machine Learning"/>
 
 #### 🛠 Tools & Platforms
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40" alt="VS Code"/> <img src="https://img.icons8.com/?size=512&id=12599&format=png" height="40" alt="Git"/> <img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" height="40" alt="GitHub"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/HackerRank_logo.png" height="40" alt="HackerRank"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40" alt="VS Code"/> <img src="https://img.icons8.com/?size=512&id=12599&format=png" height="40" alt="Git"/> <img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" height="40" alt="GitHub"/> <img src="https://img.icons8.com/color/48/hackerrank.png" height="40" alt="HackerRank"/>
 
 #### 🗄️ Databases
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" height="40" alt="SQLite"/> <img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40" alt="MySQL"/> <img src="https://img.icons8.com/color/48/mongodb.png" height="40" alt="MongoDB"/>
