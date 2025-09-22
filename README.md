@@ -12,9 +12,17 @@
 - 🎓 **B.Tech Computer Science and Business Systems**, M.Kumarasamy College of Engineering, Karur (2023–2027), CGPA: 7.853 (V-Semester)
 - 📈 **Intern @ ABILITY SOFTWARE** (Full Stack, Jun-Jul 2025)
 - 📊 Skilled in **Python, Java, C, HTML, CSS, JavaScript, React, SQL, Data Structures, Machine Learning, Problem Solving**
-- 📜 **Certifications:** Full Stack Development (Novitech), Introduction to Artificial Intelligence (NOVITECH), DSA Problem Solving using Java (SCALER), Introduction to IoT (NPTEL)
 - 🔎 Passionate about delivering efficient, innovative, and user-focused solutions, applying problem-solving skills to support digital transformation and business growth.
 - 📫 Email: mathivanancodes@gmail.com
+
+---
+
+## 🏅 Certifications
+
+- **Full Stack Development** (Novitech)
+- **Introduction to Artificial Intelligence** (NOVITECH)
+- **DSA Problem Solving using Java** (SCALER)
+- **Introduction to IoT** (NPTEL)
 
 ---
 
@@ -34,7 +42,7 @@
 <img src="https://img.icons8.com/color/48/python.png" height="40" alt="Python"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40" alt="Java"/> <img src="https://img.icons8.com/color/48/c-programming.png" height="40" alt="C"/> <img src="https://img.icons8.com/color/48/html-5.png" height="40" alt="HTML5"/> <img src="https://img.icons8.com/color/48/css3.png" height="40" alt="CSS3"/> <img src="https://img.icons8.com/color/48/javascript--v1.png" height="40" alt="JavaScript"/> <img src="https://img.icons8.com/color/48/sql.png" height="40" alt="SQL"/>
 
 #### 🧠 Libraries & Frameworks
-<img src="https://img.icons8.com/color/48/pandas.png" height="40" alt="Pandas"/> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="Scikit-learn"/> <img src="https://img.icons8.com/color/48/react-native.png" height="40" alt="React"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-flask-a-lightweight-microframework-for-python-web-applications-logo-shadow-tal-revivo.png" height="40" alt="Flask"/> <img src="https://img.icons8.com/color/48/machine-learning.png" height="40" alt="Machine Learning"/>
+<img src="https://img.icons8.com/color/48/pandas.png" height="40" alt="Pandas"/> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="Scikit-learn"/> <img src="https://img.icons8.com/color/48/react-native.png" height="40" alt="React"/> <img src="https://img.icons8.com/color/48/flask.png" height="40" alt="Flask"/> <img src="https://img.icons8.com/color/48/machine-learning.png" height="40" alt="Machine Learning"/>
 
 #### 🛠 Tools & Platforms
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40" alt="VS Code"/> <img src="https://img.icons8.com/?size=512&id=12599&format=png" height="40" alt="Git"/> <img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" height="40" alt="GitHub"/> <img src="https://img.icons8.com/color/48/hackerrank.png" height="40" alt="HackerRank"/>
@@ -43,13 +51,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" height="40" alt="SQLite"/> <img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40" alt="MySQL"/> <img src="https://img.icons8.com/color/48/mongodb.png" height="40" alt="MongoDB"/>
 
 ---
-### 📚 Projects & Involvement
+### 📚 Projects
 
-#### 💡 Key Projects
-- **AI Scam Call Detection:** Developed a smart system using Python, Machine Learning (NLP), Scikit-learn, Pandas, Twilio API, and SQLite to detect and block scam phone calls. (Role: Developer & System Designer)
-- **Movie Blog Page Backend Development:** Implemented the backend for a movie blog application.
-- **Univariate Linear Regression From Scratch:** Created a regression model from foundational principles.
-- **Techasoft Webpage using HTML and CSS:** Designed and developed a professional webpage.
+#### 💡 Key Contributions:
+- 🤖 **AI Scam Call Detection:** Developed a smart system using Python, Machine Learning (NLP), Scikit-learn, Pandas, Twilio API, and SQLite to detect and block scam phone calls. (Role: Developer & System Designer)
+- 🎬 **Movie Blog Page Backend Development:** Implemented the robust backend for a dynamic movie blog application.
+- 📉 **Univariate Linear Regression From Scratch:** Built a foundational machine learning model for univariate linear regression from basic principles.
+- 🌐 **Techasoft Webpage using HTML and CSS:** Designed and developed a professional and responsive webpage.
 
 ---
 
