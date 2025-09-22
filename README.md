@@ -62,8 +62,8 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Mathivanan_20/">
-    <img src="https://leetcard.jacoblin.cool/Mathivanan_20?theme=dark" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/Mathivanan_S/">
+    <img src="https://leetcard.jacoblin.cool/Mathivanan_S?theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
 
