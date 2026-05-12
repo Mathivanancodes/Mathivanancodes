@@ -2,7 +2,7 @@
 <h3>💻 💡 AI Engineer | 🚀 Innovative Solutions Seeker</h3>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7D53D&center=true&vCenter=true&width=500&lines=Data+Analyst;AI+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7D53D&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
 </p>
 
 ---
