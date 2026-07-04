@@ -1,8 +1,8 @@
-<h1>Hey 👋, I'm Mathivanan S</h1>
+<h1>Hey 👋, I'm MATHIVANAN S</h1>
 <h3>💻 💡 Software Developer | AI Enthusiast | 🚀 Innovative Solutions Seeker</h3>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7D53D&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;AI%2FML+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7D53D&center=true&vCenter=true&width=500&lines=Software+Developer;AI%2FML+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
 </p>
 
 ---
